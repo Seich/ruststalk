@@ -1,0 +1,5 @@
+[package]
+
+name = "ruststalk"
+version = "0.0.1"
+authors = ["Sergio Díaz <seich@martianwabbit.com>"]
