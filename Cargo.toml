@@ -3,3 +3,14 @@
 name = "ruststalk"
 version = "0.0.1"
 authors = ["Sergio Díaz <seich@martianwabbit.com>"]
+description = "A beanstalkd client for rust."
+
+documentation = "https://github.com/Seich/ruststalk/wiki"
+homepage = "https://github.com/Seich/ruststalk"
+repository = "https://github.com/Seich/ruststalk.git"
+
+readme = "README.md"
+
+keywords = ["beanstalkd"]
+
+license = "MIT"
